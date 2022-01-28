@@ -1,0 +1,34 @@
+---
+canvas: "http://0f920836-2b55-4baa-91a6-e022bf16ac37"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Occupation at SDA, wellbeing treatment?",
+            "purpose": "commenting",
+            "creator": {
+                "id": "unistirarchives",
+                "name": "unistirarchives"
+            },
+            "created": "2022-01-28T08:58:40.257Z",
+            "modified": "2022-01-28T08:58:58.600Z"
+        }
+    ],
+    "target": {
+        "source": "http://0f920836-2b55-4baa-91a6-e022bf16ac37",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1970.1837158203125,2722.705078125,1576.6275634765625,168.924560546875"
+        },
+        "dcterms:isPartOf": {
+            "id": "http://127.0.0.1:8887/manifest3.json#",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cecfbf36-07cb-47f7-a1e1-465f43221c7e.json"
+}
