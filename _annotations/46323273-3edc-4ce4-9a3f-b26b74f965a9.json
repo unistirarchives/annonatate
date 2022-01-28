@@ -1,0 +1,34 @@
+---
+canvas: "http://0f920836-2b55-4baa-91a6-e022bf16ac37"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Treatment",
+            "purpose": "commenting",
+            "creator": {
+                "id": "unistirarchives",
+                "name": "unistirarchives"
+            },
+            "created": "2022-01-28T08:59:22.297Z",
+            "modified": "2022-01-28T08:59:23.809Z"
+        }
+    ],
+    "target": {
+        "source": "http://0f920836-2b55-4baa-91a6-e022bf16ac37",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:5776.61328125,4411.94921875,2714.0517578125,608.12744140625"
+        },
+        "dcterms:isPartOf": {
+            "id": "http://127.0.0.1:8887/manifest3.json#",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "46323273-3edc-4ce4-9a3f-b26b74f965a9.json"
+}
